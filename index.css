@@ -3,3 +3,9 @@
 	width: 200px;
 	height: 200px;
 }
+
+.subtitle {
+	width: 600px;
+	height: 200px;
+	border: 2px solid red;
+}
